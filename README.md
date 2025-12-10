@@ -7,7 +7,7 @@
 
 ## 📂 Project Files
 * **[SQL Analysis Code](Pizza_Sales_Analysis.sql):** The complete script containing all 13 queries solved.
-* **[Final Business Report](Pizza_Sales_Final_Report.pdf):** Executive summary of insights and recommendations.
+* **[Final Business Report](Pizza_Sales_Project_Report.pdf):** Executive summary of insights and recommendations.
 
 ## 📊 Key Findings
 * **Busiest Days:** Orders peak on Friday evenings (6-8 PM) and Saturday afternoons (12-2 PM).
@@ -15,5 +15,5 @@
 * **Customer Behavior:** Large pizzas account for 45% of total sales, suggesting families/groups are the primary customer base.
 
 ## 📈 Dashboard
-![Dashboard Preview]("C:\Users\himanshu\Downloads\Snapshot of pizza sales dashboard.png")
+![Dashboard Preview]()
 *(Visual breakdown of sales trends and category performance)*
