@@ -6,8 +6,8 @@
 **Objective:** Analyzed 1 year of sales data (20,000+ records) to identify peak operational hours, best-selling items, and revenue growth opportunities.
 
 ## 📂 Project Files
-* **[SQL Analysis Code](Pizza_Sales_Analysis.sql):** The complete script containing all 13 queries solved.
-* **[Final Business Report](Pizza_Sales%20Project%20Report..pdf):** Executive summary of insights and recommendations.
+* **[SQL Analysis Code](Pizza_Sales_Analysis_SQL_Queries.sql):** The complete script containing all 13 queries solved.
+* **[Final Business Report](Pizza_Sales_Project_Report.pdf):** Executive summary of insights and recommendations.
 
 ## 📊 Key Findings
 * **Busiest Days:** Orders peak on Friday evenings (6-8 PM) and Saturday afternoons (12-2 PM).
@@ -15,5 +15,5 @@
 * **Customer Behavior:** Large pizzas account for 45% of total sales, suggesting families/groups are the primary customer base.
 
 ## 📈 Dashboard
-![Dashboard Preview](Snapshot of pizza dashboard.png)
+![Dashboard Preview](Dashboard_Visuals.png)
 *(Visual breakdown of sales trends and category performance)*
