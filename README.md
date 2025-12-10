@@ -15,5 +15,5 @@
 * **Customer Behavior:** Large pizzas account for 45% of total sales, suggesting families/groups are the primary customer base.
 
 ## 📈 Dashboard
-![Dashboard Preview](Dashboard_Visuals.png)
+![Dashboard Preview]("C:\Users\himanshu\Downloads\Snapshot of pizza sales dashboard.png")
 *(Visual breakdown of sales trends and category performance)*
