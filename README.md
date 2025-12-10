@@ -7,7 +7,7 @@
 
 ## 📂 Project Files
 * **[SQL Analysis Code](Pizza_Sales_Analysis.sql):** The complete script containing all 13 queries solved.
-* **[Final Business Report](https://github.com/Himan-shu229z/Pizza_Sales_SQL_Project/tree/main):** Executive summary of insights and recommendations.
+* **[Final Business Report](Pizza Sales Project Report..pdf):** Executive summary of insights and recommendations.
 
 ## 📊 Key Findings
 * **Busiest Days:** Orders peak on Friday evenings (6-8 PM) and Saturday afternoons (12-2 PM).
